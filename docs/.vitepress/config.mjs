@@ -68,7 +68,7 @@ export default defineConfig({
       }
     ],
     editLink: {
-      pattern: 'https://github.com/alecamaracm/AlecaFrame-Docs/edit/master/docs/:path',
+      pattern: 'https://github.com/alecamaracm/AlecaFrame-Docs/edit/main/docs/:path',
       text: 'Edit this page'
     },
     footer: {
