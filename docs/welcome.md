@@ -2,7 +2,7 @@
 
 ## Overview
 
-Alecaframe is an third-party companion app for the popular game Warframe, designed to enhance your gaming experience by providing valuable insights and tools. Integrated with Overwolf, Alecaframe offers a range of features to assist you in managing your in-game resources, optimizing your gameplay, and staying on top of the Warframe market.
+Alecaframe is an third-party companion app for Warframe, designed to enhance your gaming experience by providing valuable insights and tools. Integrated with Overwolf, Alecaframe offers a range of features to assist you in managing your in-game resources, optimizing your gameplay, and staying on top of the Warframe market.
 
 ## Features
 
