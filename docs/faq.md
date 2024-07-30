@@ -111,30 +111,3 @@ Having Steam/Warframe are installed in a folder/disk that is protected/belongs t
 
 ## T15: The relic overlay only works in windowed or borderless mode, can it also work in fullscreen mode?
 Yes, it usually works in any mode if you are running Windows 10/11. If you are in Windows 10/11 and it doesn't, make sure that the "Disable fullscreen optimizations" option is NOT enabled in the properties menu of the Warframe executable: https://imgur.com/a/kUipZkf 
-
-![Stats tab export & Stats API](./assets/FAQ_API.png)
-
-## A0: What is the purpose of the Stats API?
-The stats API allows you to access your own data so you can analyse your trades/account stats in your preferred programming language and always have the most up-to-date data. (Instead of manually exporting them each time)
-This is therefore just a "personal" API, but if you want to aggregate data for an entire clan or friend group, you can ask other players to share it through the "public link/token" system.
-
-## A1: Where can I find more information about the STATS API or the structure of the exported data?
-Swagger documentation: https://stats.alecaframe.com/api/swagger/index.html
-If you have any other questions related to the API or the data export feature, you can always ask in ⁠developement-help 
-
-## A2: Do I need some kind of API key or similar to use the API?
-No, but rate limiting is enforced on an per-IP basis (1 rps, with a queue of 30)
-
-## A3: What are the "token" and "userHash" parameters needed for the API?
-The "userHash" is an anonymous identifier generated for each player. You can find yours in the "stats" tab of the app. Please DO NOT share this with other people, use public tokens instead if you want to share your data.
-A public "link/token" can be generated from the stats tab of the app and can be used to publicly share your stats with other people. When a public token is generated, you can choose which data to share. They expire in 1 year and can be revoked sooner if necessary. 
-alecamar — 27/12/2022 18:28
-## A4: What data is collected in the stats tab and how is it handled?
-All data is stored in a totally anonymous way, fully compliant with the "anonymous" GDPR definition (GDPR art.26). Only you (the player) knows your "userHash" and therefore only you can access your data.
-You can also fully disable the stats tab in the settings menu if you prefer that.
-
-## A5: I changed my Warframe username and I lost my stats history. Is there anything I can do to get it back?
-Unfortunately no, as a side effect of the data being totally anonymous, there is no way to find your old data unless you saved a copy of your old "userHash" somewhere.
-
-## A6: How can I delete all my data?
-Please send me a DM mentioning this and your "userHash" (Check how to obtain it in FAQ A3) 

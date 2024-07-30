@@ -60,6 +60,7 @@ export default defineConfig({
             items: [
               { text: 'Language Compatibility', link: '/language-compatibility' },
               { text: 'Linux Support', link: '/linux-support' },
+			  { text: 'API', link: '/api' },
               { text: 'FAQ', link: '/faq' },
               { text: 'About', link: '/about' },
             ]
