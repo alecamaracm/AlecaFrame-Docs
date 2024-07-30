@@ -1,3 +1,8 @@
+# AlecaFrame documentation
+If you are just looking for the AlecaFrame documentation you can find it here: https://docs.alecaframe.com
+
+Any changes made to this repository will be automatically published there.
+
 # How to contribute
 
 ## Small changes
