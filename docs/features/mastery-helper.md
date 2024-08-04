@@ -16,7 +16,7 @@ The "From relics" filter shows all items that can be crafted from parts obtained
 
 ### Filter: With platinum
 
-The "With platinum" filter shows all items that can be crafted by purchasing from Warframe.Market the parts that you down own. Right below the name of the item you can see how much it would cost to get all the neccessary components. They are also ordered by lowest price to highest.
+The "With platinum" filter shows all items that can be crafted by purchasing from Warframe.Market the parts that you don't own. Right below the name of the item you can see how much it would cost to get all the neccessary components. They are also ordered by lowest price to highest.
 
 ## Notes
 
