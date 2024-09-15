@@ -44,7 +44,8 @@ You can create and VERIFY your WFMarket account here: https://warframe.market/
 You can add an email/password login in your WFM account settings.
 
 ## M3. My WFMarket account is verified but I am still getting an error message saying it is not. What can I do?
-It seems like it is a WFMarket bug. Usually changing your WFMarket email fixes it. 
+If you are logged into WarframeMarket in AlecaFrame, try logging out and back in.
+If you are getting this error while logging in, try changing your WFMarket email. 
 
 ![Troubleshooting](./assets/FAQ_Troubleshooting.png)
 
