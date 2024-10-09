@@ -5,6 +5,7 @@ export default defineConfig({
   description: "The most advanced WarFrame companion app",
   head: [['link', { rel: 'icon', href: 'https://alecaframe.com/favicon.ico' }]],
   appearance: 'force-dark',
+  cleanUrls: true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
