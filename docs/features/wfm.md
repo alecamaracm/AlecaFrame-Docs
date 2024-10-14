@@ -2,7 +2,7 @@
 
 After linking with your [Warframe Market](https://warframe.market/) account, this tab will show the listings and contracts of your Warframe.Market account.
 
-![Example banner](./assets/WarframeMarket.png)
+![Example banner](./assets/WarframeMarket.webp)
 
 ## Logging in and out
 

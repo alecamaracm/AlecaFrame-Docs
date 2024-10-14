@@ -2,7 +2,7 @@
 
 This tab helps you increase your mastery level (needed to unlock more weapons, max daily standing and more) in the easiest possible way.
 
-![Example banner](./assets/MasteryHelper.png)
+![Example banner](./assets/MasteryHelper.webp)
 
 ## Filters
 

@@ -1,7 +1,7 @@
 # Foundry
 
 This tab displays your Warframe unlocks, providing a quick glance at what you have, what's mastered, and what's available.
-![Example banner](./assets/FoundryTutorial.png)
+![Example banner](./assets/FoundryTutorial.webp)
 
 ## Labels and Indicators
 
@@ -72,7 +72,7 @@ With the controls in the top you can search and further refine the results.
 ## Foundry details window
 You can click any item in the foundry to see more details:
 
-![Foundry details](./assets/FoundryDetails.png)
+![Foundry details](./assets/FoundryDetails.webp)
 
 Depending on the type of item, different stats will be shown:
 - **Warframes and companions:** Base stats (health, shield, energy,..), abilities and description.
@@ -84,6 +84,6 @@ In the bottom of the foundry details window you can inspect each component of th
 ## Crafting tree view
 If an item has a crafting recipe available, you can see its full crafting tree by clicking the "Crafting tree" icon in the top right corner of the foundry details window.
 
-![Crafting tree](./assets/CraftingTree.png)
+![Crafting tree](./assets/CraftingTree.webp)
 
 At the bottom of the crafting tree window you can also see the total amount of resources and blueprints that you will need if you want to build that item. It **takes into account** the parts you have already built.

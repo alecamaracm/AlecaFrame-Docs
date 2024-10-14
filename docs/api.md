@@ -40,13 +40,15 @@ A user can get a public token by going into the "Stats" tab of AlecaFrame, "Crea
 Swagger documentation: https://stats.alecaframe.com/api/swagger/index.html
 
 The response follows this format:
-```//Data format. Everything in little endian unless specified otherwise
-	//Uint32 - Number of relics
-	//For each relic (9 bytes):
-	//  Uint8 - Relic type: 0 - Lith, 1 - Meso, 2 - Neo, 3 - Axi, 4 - Requiem
-	//  Uint8 - Relic refinement: 0 - Intact, 1 - Exceptional, 2 - Flawless, 3 - Radiant, 4 - Exceptional, 5 - Flawless, 6 - Radiant
-	//  char[3] - Name (i.e. "L1", "B21", ...)
-	//  Uint32 - Number of relics of this type```
+``` txt
+	// Data format. Everything in little endian unless specified otherwise
+	// Uint32 - Number of relics
+	// For each relic (9 bytes):
+	// Uint8 - Relic type: 0 - Lith, 1 - Meso, 2 - Neo, 3 - Axi, 4 - Requiem
+	// Uint8 - Relic refinement: 0 - Intact, 1 - Exceptional, 2 - Flawless, 3 - Radiant, 4 - Exceptional, 5 - Flawless, 6 - Radiant
+	// char[3] - Name (i.e. "L1", "B21", ...)
+	// Uint32 - Number of relics of this type
+```
 
 
 

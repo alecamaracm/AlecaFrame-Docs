@@ -6,8 +6,8 @@ If you have a very large Warframe inventory (lots of upgraded mods / a lot of wa
 
 If you are having issues connecting your account, you can check the **troublehsooter**:
 
-![Troubleshooter1](assets/Troubleshooter1.png)
-![Troubleshooter1](assets/Troubleshooter2.png)
+![Troubleshooter1](assets/Troubleshooter1.webp)
+![Troubleshooter1](assets/Troubleshooter2.webp)
 
 These issues/limitations nearly always come from the Overwolf integration with Warframe, which is far from perfect. 
 

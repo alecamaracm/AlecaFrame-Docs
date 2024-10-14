@@ -2,7 +2,7 @@
 
 The Stats tab will record some datapoints (Platinum, Ducats, ...) and trades when you play with AlecaFrame open. You can then go back to this tab and see how you have progressed through the game or check the trades you have done.
 
-![Example banner](./assets/Stats.png)
+![Example banner](./assets/Stats.webp)
 
 ## Data export and API
 

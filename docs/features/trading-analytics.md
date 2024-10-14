@@ -2,7 +2,7 @@
 
 This tab is only available to Patreon T2+ supporters.
 
-![Example banner](./assets/TradingAnalytics.png)
+![Example banner](./assets/TradingAnalytics.webp)
 
 ## Where is this data coming from?
 

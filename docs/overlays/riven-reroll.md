@@ -1,6 +1,6 @@
 # Riven Reroll Overlay
 
-![Riven Reroll Overlay](./assets/OverlayRivenReroll.png)
+![Riven Reroll Overlay](./assets/OverlayRivenReroll.webp)
 
 The riven reroll overlay will automatically popup whenever you select a riven for rerolling.
 

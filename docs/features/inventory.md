@@ -2,7 +2,7 @@
 
 This tab shows all the items that you have in your Warframe inventory that can be sold in Warframe.Market. It lets you create listings for the items you want in 1 click.
 
-![Image](./assets/Inventory.png)
+![Image](./assets/Inventory.webp)
 
 ## Filters
 
@@ -51,4 +51,4 @@ This tab shows all the items that you have in your Warframe inventory that can b
 
 When the sets filter is selected (last rounded button on the top-left corner), AlecaFrame will show sets where you have at least 1 part. The "Sell" button will appear disabled if you don't have all the necessary parts to be able to sell a full set.
 
-![Image](./assets/InventorySets.png)
+![Image](./assets/InventorySets.webp)

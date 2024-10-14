@@ -1,4 +1,4 @@
-![General](./assets/FAQ_General.png)
+![General](./assets/FAQ_General.webp)
 
 ## G1. Is AlecaFrame safe to use?
 The short answer is that yes, AlecaFrame is safe to use.
@@ -35,7 +35,7 @@ So if you want to force it to update, just travel to your clan DOJO or RELAY and
 ## G7. How can I get the "Content Creator" role in Discord?
 There is a minimum requirement of 5K avg. YouTube views per video or 50 avg. viewers in Twitch or equivalent. Feel free to DM alecamar in the Discord server if you meet those requirements or have any questions.
 
-![Market](./assets/FAQ_Market.png)
+![Market](./assets/FAQ_Market.webp)
 
 ## M1. How do I get a WFMarket account?
 You can create and VERIFY your WFMarket account here: https://warframe.market/
@@ -47,7 +47,7 @@ You can add an email/password login in your WFM account settings.
 If you are logged into WarframeMarket in AlecaFrame, try logging out and back in.
 If you are getting this error while logging in, try changing your WFMarket email. 
 
-![Troubleshooting](./assets/FAQ_Troubleshooting.png)
+![Troubleshooting](./assets/FAQ_Troubleshooting.webp)
 
 ## T1. Where can I find the log files?
 If you are having an issue, I might ask you for one of these two types of logs:

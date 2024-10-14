@@ -2,7 +2,7 @@
 
 This tab helps you choose which relic you want to open next.
 
-![Image](./assets/Relics.png)
+![Image](./assets/Relics.webp)
 
 ## See relics not owned or other tiers
 
@@ -66,5 +66,5 @@ If you want to reset them, just remove all filters and click the arrow icon agai
 
 By clicking any of the relics you can open a new window with more details about it:
 
-![Image](./assets/RelicDetails.png)
+![Image](./assets/RelicDetails.webp)
 

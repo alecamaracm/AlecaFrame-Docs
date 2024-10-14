@@ -4,7 +4,7 @@
 
 The grading system used in AlecaFrame is made of four different tiers:
 
-![Image](./assets/RivenGrades.png)
+![Image](./assets/RivenGrades.webp)
 
 - **Great**: All the attributes in this riven are considered good for the weapon.
 - **Good**: This riven is good enough for most builds. Most of its attributes help the weapon and it is generally worth replacing another existing mod by this one.
@@ -19,7 +19,7 @@ If you feel like a certain grade is wrong or not fair for a certain riven, feel 
 
 ## Unveiled rivens
 
-![Image](./assets/UnveiledRivens.png)
+![Image](./assets/UnveiledRivens.webp)
 
 ### Ordering Options
 
@@ -32,7 +32,7 @@ If you feel like a certain grade is wrong or not fair for a certain riven, feel 
 
 ## Riven details
 
-![Image](./assets/RivenDetails.png)
+![Image](./assets/RivenDetails.webp)
 
 ### Good rolls
 
@@ -43,13 +43,13 @@ Any attributes that match the current riven will be highlighted and shown in a d
 
 ## Veiled rivens
 
-![Image](./assets/VeiledRivens.png)
+![Image](./assets/VeiledRivens.webp)
 
 ## Riven finder
 
 The 'Finder' tool is designed to let you find your dream riven or easely check what the best pricing for a riven that you own is. If you want to be notified when a riven like the one you are looking for is put for sale in any of the markets, you can add it to the "Sniper".
 
-![Image](./assets/RivenFinder.png)
+![Image](./assets/RivenFinder.webp)
 
 ### Average riven price graph (*)
 
@@ -74,7 +74,7 @@ If you want to be notified whenever a riven that matches your selected filters i
 
 ## Riven sniper
 
-![Image](./assets/RivenSniper.png)
+![Image](./assets/RivenSniper.webp)
 
 ### Sniper slots
 

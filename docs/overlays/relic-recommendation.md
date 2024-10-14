@@ -1,6 +1,6 @@
 # Relic Recommendation Overlay
 
-![Relic Recommendation Overlay](./assets/OverlayRecommendation.png)
+![Relic Recommendation Overlay](./assets/OverlayRecommendation.webp)
 
 The relic recommendation overlay will automatically popup whenever you are prompted to select a relic for a void fissure mission.
 
