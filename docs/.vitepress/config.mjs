@@ -6,6 +6,9 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: 'https://alecaframe.com/favicon.ico' }]],
   appearance: 'force-dark',
   cleanUrls: true,
+  sitemap: {
+    hostname: 'https://docs.alecaframe.com/'
+    },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     search: {
