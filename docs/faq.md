@@ -3,9 +3,7 @@
 ## G1. Is AlecaFrame safe to use?
 The short answer is that yes, AlecaFrame is safe to use.
 
-The potentially risky part, getting your account/inventory data, is handled by Overwolf, which is explicitly said to be fine in DE's Third Party Policy: https://support.warframe.com/hc/en-us/articles/360030014351-Third-Party-Software-and-You
-
-A more up-to-date statement from DE: https://forums.warframe.com/topic/1383123-third-party-software-usage/#comment-12964630
+The potentially risky part, getting your account/inventory data, is handled by Overwolf, which is explicitly said to be fine in DE's Third Party Policy: https://forums.warframe.com/topic/1383123-third-party-software-usage/#comment-12964630
 
 Also, AlecaFrame is an app in the Overwolf ecosystem, where all apps are subject to review before publication to ensure that they comply with the terms of service of the game.
 (https://support.overwolf.com/en/support/solutions/articles/9000182312-overwolf-won-t-get-you-banned)
