@@ -11,7 +11,7 @@ Before you begin, ensure that you have the following:
 
 ## Step 1: Visit the Official AlecaFrame Website
 
-Go to the official AlecaFrame website by navigating to [AlecaFrame.com](AlecaFrame.com).
+Go to the official AlecaFrame website by navigating to [AlecaFrame.com](https://alecaframe.com).
 
 ## Step 2: Download AlecaFrame
 
