@@ -6,7 +6,7 @@ hero:
   name: "AlecaFrame - Docs"
   tagline: The most advanced WarFrame companion app
   image:
-    src: https://alecaframe.com/wp-content/uploads/2024/04/AlecaFrame-logo.png
+    src: /AlecaFrame-logo.png
     alt: AlecaFrame-Logo
 
 features:
