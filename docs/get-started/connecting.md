@@ -19,4 +19,4 @@ If the data AlecaFrame has is out of date or you want to force an update, you ca
 
 ## AlecaFrame ToS and EULA compliance
 
-AlecaFrame uses Overwolf to access your Warframe inventory data in a way that is compliant with Warframe's ToS and EULA. Check out [this](https://docs.alecaframe.com/faq#g1-is-alecaframe-safe-to-use) question in the FAQ for more information.
+AlecaFrame uses Overwolf to access your Warframe inventory data in a way that is compliant with Warframe's ToS and EULA. Check out [this](/faq#g1-is-alecaframe-safe-to-use) question in the FAQ for more information.

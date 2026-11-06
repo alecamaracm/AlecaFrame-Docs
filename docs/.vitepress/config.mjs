@@ -3,9 +3,14 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "AlecaFrame - Docs",
   description: "The most advanced WarFrame companion app",
-  head: [['link', { rel: 'icon', href: 'https://alecaframe.com/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/favicon.ico' }]],
   appearance: 'force-dark',
   cleanUrls: true,
+  markdown: {
+    image: {
+      lazyLoading: true
+    }
+  },
   sitemap: {
     hostname: 'https://docs.alecaframe.com/'
     },
